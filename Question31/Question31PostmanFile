@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "458b7236-36ed-47e4-af9e-3bbcb5617a92",
+		"name": "MidAssessment2 Question31",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23256147"
+	},
+	"item": [
+		{
+			"name": "Admin login",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/app/login/form/shashank/hello",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"app",
+						"login",
+						"form",
+						"shashank",
+						"hello"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
